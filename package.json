@@ -1,0 +1,17 @@
+{
+  "name": "trivia-game",
+  "version": "1.0.0",
+  "description": "An interactive command-line trivia quiz game built with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "trivia",
+    "quiz",
+    "cli",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
